@@ -8,7 +8,7 @@ let numbers: number[] = [1, 2, 3, 4, 5];
 let names: Array<string> = ["Nirjal", "Coder", "Adhikari"];
 
 // Tuples
-let person: [string, number] = ["Nirjal", 23];
+let individual: [string, number] = ["Nirjal", 23];
 
 // Enum
 enum Color {
